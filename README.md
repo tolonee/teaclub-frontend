@@ -8,7 +8,7 @@ First download all the dependencies needed by running:
 ### yarn install
 This creates node_modules folder to your project.
 
-After that, the project directory, you can start the react-admin application by running
+After that, in the project directory, you can start the react-admin application by running
 ### `yarn start` or `npm start`
 
 This runs the app in the development mode.\
