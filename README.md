@@ -11,10 +11,10 @@ This creates node_modules folder to your project.
 After that, in the project directory, you can start the react-admin application by running
 ### `yarn start` or `npm start`
 
-This runs the app in the development mode.\
+This runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
+The page will reload if you make edits.
 
 You can view list of teas by giving the correct url to dataProvider object in App.js file
 (this is done already, after starting the backend and frontend you should be able to see list of teas on http://localhost:3000) 
