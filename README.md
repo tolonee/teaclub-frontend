@@ -32,7 +32,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.
 
 You can view list of teas by giving the correct url to dataProvider object in App.js file
-(this is done already, after starting the backend and frontend you should be able to see list of teas on http://localhost:3000) 
+(this is done already, after starting the container, backend and frontend you should be able to see list of teas on http://localhost:3000) 
 
 OBS! If you for example changed the port on your backend project, don't forget to change it on App.js LOCAL_REST_ENDPOINT 
 constant as well.
